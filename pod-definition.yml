@@ -9,6 +9,6 @@ metadata:
     app: myapp
 
 spec:
-  containers:
+  container:
     - name: nginx-container
       image: nginx
